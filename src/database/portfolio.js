@@ -17,13 +17,13 @@ const items = [
     },
     {
         id: 3,
-        title: 'JAAANESE GIRL',
+        title: 'PAPA TENTARA',
         img: Porto3,
         desc: 'This is my work when I was practicing LKS 3D Game Art, I finished this work in 18 hours. I did this character in 2022.'
     },
     {
         id: 4,
-        title: 'JAAANESE GIRL',
+        title: 'PAPA TENTARA',
         img: Porto3,
         desc: 'This is my work when I was practicing LKS 3D Game Art, I finished this work in 18 hours. I did this character in 2022.'
     },

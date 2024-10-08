@@ -1,4 +1,4 @@
-import ContactImg from '../assets/contact.png'
+import ContactImg from '../assets/contact.jpeg'
 import { FaInstagramSquare } from "react-icons/fa"
 import { FaTwitterSquare } from "react-icons/fa"
 import { ImFacebook2 } from "react-icons/im";
