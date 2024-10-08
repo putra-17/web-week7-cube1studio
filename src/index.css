@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'robotech';
+    src: url('./font/ROBOTECH GP.ttf') format('truetype');
+    font-weight: bold;
+}
